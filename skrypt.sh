@@ -1,3 +1,3 @@
 #!/bin/bash
 echo "test"
-sudo apt install tmux
+sudo apt install -y tmux
